@@ -183,12 +183,17 @@ span{
     #flex-div{
         font-size: 20px;
         float: left;
+        position: absolute;
     }
     .homeH1 {
         padding: 0px;
+        position: absolute;
+        bottom: 5px;
+        font-size: 25px;
     }
     .homeP{
         padding: 5px;
+        display: none;
     }
     .hraverh1{
         width: 100%;
@@ -199,6 +204,7 @@ span{
     .headColor{
         height: 440px;
         padding: 20px;
+        position: relative;
     }
     .programH1{
         padding: 5px;
